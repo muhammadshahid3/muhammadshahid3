@@ -1,8 +1,8 @@
 <div align="center">
-  
-# Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+# Hi, I'm Muhammad Shahid 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Junior+DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Docker;Terraform+%7C+GitOps+%7C+CI%2FCD;Building+Cloud-Native+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,74 +10,162 @@
 
 ## 🚀 About Me
 
-I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **Junior DevOps & Cloud Engineer** from 🇵🇰 Pakistan, passionate about cloud infrastructure, automation, containerization, and cloud-native technologies.
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+- 🔭 Currently working on **AWS cloud infrastructure and Kubernetes deployments**
+- 🌱 Learning **Kubernetes, Terraform, GitOps, and DevSecOps**
+- ☁️ Hands-on experience with **AWS, Docker, Linux, and Infrastructure as Code**
+- 🚀 Building and deploying **microservices applications**
+- 🤝 Looking to collaborate on **DevOps and Cloud projects**
+- 🎯 Seeking opportunities as a **Junior DevOps Engineer**
+- ⚡ Fun fact: I enjoy troubleshooting infrastructure and learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
+### ☁️ Cloud & Infrastructure
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### **Cloud & DevOps**
+`AWS` `EC2` `VPC` `RDS` `S3` `IAM` `CloudWatch` `Terraform`
+
+### 🐳 Containers & Orchestration
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/>
 </p>
 
-### **Databases & Monitoring**
+`Docker` `Kubernetes` `Amazon EKS` `Helm`
+
+### 🔄 DevOps & Automation
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</p>
+
+`Git` `GitHub Actions` `Argo CD` `Ansible` `Nginx` `CI/CD`
+
+### 🗄️ Databases & Monitoring
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
 </p>
+
+`PostgreSQL` `MySQL` `Prometheus` `Grafana`
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Exam Board Microservices Application
+
+Django-based microservices application for student result viewing and administrative management.
+
+**Technologies:** Django, Kubernetes, Amazon RDS PostgreSQL, Terraform, Helm, GitOps
+
+- Student and Admin microservices
+- Kubernetes deployments and services
+- Horizontal Pod Autoscaling for Student service
+- AWS infrastructure provisioned using Terraform
+
+---
+
+### 🩺 MediConnect Microservices
+
+MERN-based doctor appointment application deployed using containerization and Kubernetes.
+
+**Technologies:** Docker, Amazon EKS, Kubernetes, ALB Ingress, HPA
+
+- Containerized application services
+- Kubernetes-based deployment
+- Persistent storage configuration
+- Application ingress and connectivity
+
+---
+
+### 🌍 TourApp / WanderTrail
+
+Flask-based travel booking application deployed on AWS infrastructure.
+
+**Technologies:** AWS EC2, Docker, Terraform, MySQL RDS, Nginx, SSL
+
+- Infrastructure provisioning with Terraform
+- Docker-based application deployment
+- Database connectivity
+- Nginx and HTTPS configuration
+
+---
+
+### 📈 Prometheus & Grafana Monitoring
+
+Infrastructure monitoring stack automated with Terraform and Ansible.
+
+**Technologies:** Terraform, Ansible, Prometheus, Grafana, Node Exporter
+
+- Infrastructure provisioning
+- Automated server configuration
+- System metrics monitoring
+- Grafana dashboards and alerting
+
+---
+
+## 📚 Currently Learning
+
+- ☸️ Kubernetes & Amazon EKS
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 GitOps with Argo CD
+- 🚀 CI/CD Automation
+- 🔐 DevSecOps Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LondheShubham153&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondheShubham153&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadshahid3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshahid3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondheShubham153&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshahid3&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LondheShubham153&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadshahid3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+
 </div>
 
 ---
 
 ## 📈 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshahid3&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+
 </div>
 
 ---
@@ -85,21 +173,23 @@ I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadshahid3)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Building the future, one deployment at a time" 
 
-![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
+### 💡 "Building, Automating, and Learning Every Day"
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadshahid3&color=brightgreen&style=flat-square)
+
+[![GitHub followers](https://img.shields.io/github/followers/muhammadshahid3?label=Follow&style=social)](https://github.com/muhammadshahid3)
 
 </div>
